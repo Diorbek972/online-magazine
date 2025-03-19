@@ -2,8 +2,8 @@ import React from 'react'
 
 function FlashSales() {
   return (
-    <div>
-      
+    <div className='container'>
+      <h4 className='text-danger'>Today’s</h4>
     </div>
   )
 }
